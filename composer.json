@@ -1,0 +1,15 @@
+{
+    "name": "dxn/test-for-laravel",
+    "authors": [
+        {
+            "name": "Dong xiannan",
+            "email": "443852256@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Dxn\\test\\": "src/"
+        }
+    }
+}
